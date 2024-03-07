@@ -170,4 +170,9 @@
 
 #mobile_figma{
     align-self: center;
-} 
+}
+
+.figmas{
+    max-width: 80%;
+    align-self: center;
+}
